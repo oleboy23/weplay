@@ -1,0 +1,50 @@
+{
+"name": "WePlay",
+"author": "PlayBoy",
+"info": "Movies",
+"image":"https://www.weplay.be/files/2018/02/Logo_weplay_red-300x137.png",
+"url": "",
+"stations":[
+
+{"name":"The Rocketeer เหิรทะลุฟ้า (1991)",
+"image":"https://image.movie2freehd.com/wp-content/uploads/2026/03/2tDFRESFwKww1LHRE8W1Exj9edH-200x300.jpg",
+"url":"https://meeplayer.com/play/6dfc2cc12bfbbcb1b019794303a20a915c8",
+"referer":"https://movie2freehd.com/",
+"info":"PlayBoy",
+"embed":"true"},
+
+{"name":"Career Opportunities คืนป่วนที่มีเธอ (1991)",
+"image":"https://image.movie2freehd.com/wp-content/uploads/2026/07/x2sSRi8ZqOIjtk2fpGMTuMf4qJv-200x300.jpg",
+"url":"https://meeplayer.com/play/4088f424b0a4dd310f64fdf4ac1e88dcf61",
+"referer":"https://movie2freehd.com/",
+"info":"PlayBoy",
+"embed":"true"},
+
+{"name":"The People Under the Stairs บ้านกระตุกอย่าอยู่เดี่ยว (1991)",
+"image":"https://image.movie2freehd.com/wp-content/uploads/2026/05/8OWDBVmGdM7HwaDtbDsdn6Rlzqj-200x300.jpg",
+"url":"https://meeplayer.com/play/17c3ef5259298b721838ed9485cc21cb787",
+"referer":"https://movie2freehd.com/",
+"info":"PlayBoy",
+"embed":"true"},
+
+{"name":"Father of the Bride พ่อตา จ.จุ้น (1991)",
+"image":"https://image.movie2freehd.com/wp-content/uploads/2026/05/bU7HzJbJpY5OiLdqWhKSqGPtYii-200x300.jpg",
+"url":"https://meeplayer.com/play/2ea2b86e44f3c2e20d3c5b7484bf4300f14",
+"referer":"https://movie2freehd.com/",
+"info":"PlayBoy",
+"embed":"true"},
+
+{"name":"Once a Thief ตีแสกตะวัน (1991)",
+"image":"https://image.movie2freehd.com/wp-content/uploads/2026/04/xCm4qIID3oyhBxRNKsYo3TpDivF-200x300.jpg",
+"url":"https://meeplayer.com/play/eeb91cc6d8a2a75b52a753f8efef3009784",
+"referer":"https://movie2freehd.com/",
+"info":"PlayBoy",
+"embed":"true"},
+
+{"name":"Fist of Fury (Xin jing wu men) คนเล็กต้องใหญ่ (1991)",
+"image":"https://image.movie2freehd.com/wp-content/uploads/2026/03/hC1MJSYGdcZDMsrxnElM6Z60uvv-203x300.jpg",
+"url":"https://meeplayer.com/play/6b051f8557afd3e329d1e21f7cc6791f5ee",
+"referer":"https://movie2freehd.com/",
+"info":"PlayBoy",
+"embed":"true"}
+]}
