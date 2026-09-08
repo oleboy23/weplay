@@ -1,8 +1,8 @@
 {
-"name": "WePlay",
+"name": "Flashback Cinema",
 "author": "PlayBoy",
 "info": "Movies",
-"image":"https://www.weplay.be/files/2018/02/Logo_weplay_red-300x137.png",
+"image":"https://wheelingcvb.com/wp-content/uploads/flashback-cinema.jpg",
 "url": "https://raw.githubusercontent.com/oleboy23/weplay/refs/heads/main/movies.w3u",
 "stations":[
 
@@ -212,6 +212,48 @@
 {"name":"Dances with Wolves (1990) จอมคนแห่งโลกที่ 5",
 "image":"https://image.movie2freehd.com/wp-content/uploads/2026/03/hw0ZEHAaTqTxSXGVwUFX7uvanSA-200x300.jpg",
 "url":"https://meeplayer.com/play/02e816ce003d28fe8dd54ee4ed2bb841907",
+"referer":"https://movie2freehd.com/",
+"info":"PlayBoy",
+"embed":"true"},
+
+{"name":"The Fog หมอกมรณะ (1980)",
+"image":"https://image.movie2freehd.com/wp-content/uploads/2026/04/12EeSboRofP3CI4SPmMFNNXCbtY-200x300.jpg",
+"url":"https://meeplayer.com/play/31f796032f735342e6372f5fba7e89bc7f9",
+"referer":"https://movie2freehd.com/",
+"info":"PlayBoy",
+"embed":"true"},
+
+{"name":"Flash Gordon แฟลช กอร์ดอน ผ่ามิติทะลุจักรวาล (1980)",
+"image":"https://image.movie2freehd.com/wp-content/uploads/2026/03/eTdEaRjtVnFbd5KVhxLRfbYW46e-200x300.jpg",
+"url":"https://meeplayer.com/play/fc716cbe3f5d415fa913643dfb92cf67547",
+"referer":"https://movie2freehd.com/",
+"info":"PlayBoy",
+"embed":"true"},
+
+{"name":"The Shining เดอะไชนิง โรงแรมผีนรก (1980)",
+"image":"https://image.movie2freehd.com/wp-content/uploads/2026/03/6YoriMqnDS83NHazLcpDs9XdeWZ-200x300.jpg",
+"url":"https://meeplayer.com/play/4792f065ac260e327173341c09f1b049f1d",
+"referer":"https://movie2freehd.com/",
+"info":"PlayBoy",
+"embed":"true"},
+
+{"name":"Dressed to Kill แต่งตัวไปฆ่า (1980)",
+"image":"https://image.movie2freehd.com/wp-content/uploads/2026/04/oy1m5dd44foNrxV8U9l6Walx82V-200x300.jpg",
+"url":"https://meeplayer.com/play/595e71105b2a1513fad02b01640910df8d4",
+"referer":"https://movie2freehd.com/",
+"info":"PlayBoy",
+"embed":"true"},
+
+{"name":"Somewhere in Time ลิขิตรักข้ามกาลเวลา (1980)",
+"image":"https://image.movie2freehd.com/wp-content/uploads/2026/05/hmdegiSwVYUNvEfihaE3HRM3Sos-200x300.jpg",
+"url":"https://meeplayer.com/play/628234417a3ac04f969d04095254c04f914",
+"referer":"https://movie2freehd.com/",
+"info":"PlayBoy",
+"embed":"true"},
+
+{"name":"The Blue Lagoon ความรักความซื่อ (1980)",
+"image":"https://image.movie2freehd.com/wp-content/uploads/2026/05/k6KsThCeoxxHDbVnlHLdTlf5wsy-200x300.jpg",
+"url":"https://meeplayer.com/play/2ed45b1d28bfd60ecd5b19b8b473a6f2f2d",
 "referer":"https://movie2freehd.com/",
 "info":"PlayBoy",
 "embed":"true"}
