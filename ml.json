@@ -12,6 +12,14 @@
       "referer": "https://kicksball.com/",
       "info": "Live",
       "embed": "true"
+    },
+    {
+      "name": "HBOhits",
+      "image": "https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India.png",
+      "url": "https://kicksball.com/player/hbo-hits",
+      "referer": "https://kicksball.com/",
+      "info": "Live",
+      "embed": "true"
     }
   ]
 }
