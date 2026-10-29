@@ -1,0 +1,17 @@
+{
+  "name": "Movies Live",
+  "author": "BadBoyMedia",
+  "info": "Live",
+  "image": "https://media3.giphy.com/media/0E5xG8yTto5uECr4wY/100.webp",
+  "url": "",
+  "stations": [
+    {
+      "name": "HBO",
+      "image": "https://1000logos.net/wp-content/uploads/2021/04/HBO-logo-500x281.png",
+      "url": "https://kicksball.com/player/hbo",
+      "referer": "https://kicksball.com/",
+      "info": "Live",
+      "embed": "true"
+    }
+  ]
+}
