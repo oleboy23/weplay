@@ -7,7 +7,7 @@
   "stations": [
     {
       "name": "HBO",
-      "image": "https://1000logos.net/wp-content/uploads/2021/04/HBO-logo-500x281.png",
+      "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/logohbo.png",
       "url": "https://kicksball.com/player/hbo",
       "referer": "https://kicksball.com/",
       "info": "Live",
@@ -15,11 +15,107 @@
     },
     {
       "name": "HBOhits",
-      "image": "https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India.png",
+      "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/hbohit.png",
       "url": "https://kicksball.com/player/hbo-hits",
       "referer": "https://kicksball.com/",
       "info": "Live",
       "embed": "true"
-    }
+    },
+    {
+      "name": "HBOsignature",
+      "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/HBOSignature.png",
+      "url": "https://kicksball.com/player/hbo-signature",
+      "referer": "https://kicksball.com/",
+      "info": "Live",
+      "embed": "true"
+    },
+    {
+      "name": "HBOfamily",
+      "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/family.png",
+      "url": "https://kicksball.com/player/hbo-family",
+      "referer": "https://kicksball.com/",
+      "info": "Live",
+      "embed": "true"
+    },
+    {
+      "name": "cinemax",
+      "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png",
+      "url": "https://kicksball.com/player/cinemax",
+      "referer": "https://kicksball.com/",
+      "info": "Live",
+      "embed": "true"
+    },
+    {
+      "name": "AsianHits",
+      "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2025/Asian-Hits.png",
+      "url": "https://kicksball.com/player/3bbasian",
+      "referer": "https://kicksball.com/",
+      "info": "Live",
+      "embed": "true"
+    },
+    {
+      "name": "RockAction",
+      "image": "https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20250716135107006734.png",
+      "url": "https://kicksball.com/player/rock-action",
+      "referer": "https://kicksball.com/",
+      "info": "Live",
+      "embed": "true"
+    },
+    {
+      "name": "RockEntertainment",
+      "image": "https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20250716135113006742.png",
+      "url": "https://kicksball.com/player/rock-entertainment",
+      "referer": "https://kicksball.com/",
+      "info": "Live",
+      "embed": "true"
+    },
+    {
+      "name": "truefilm1",
+      "image": "https://f.ptcdn.info/231/076/000/r6ltgy21if01VRDPaI3cn-o.jpg",
+      "url": "https://kicksball.com/player/truefilm1",
+      "referer": "https://kicksball.com/",
+      "info": "Live",
+      "embed": "true"
+    },
+    {
+      "name": "truefilm2",
+      "image": "https://static.wikia.nocookie.net/logos/images/b/b5/True_Film_2.png/revision/latest/scale-to-width-down/180?cb=20240416043001&path-prefix=vi",
+      "url": "https://kicksball.com/player/truefilm2",
+      "referer": "https://kicksball.com/",
+      "info": "Live",
+      "embed": "true"
+    },
+    {
+      "name": "MoNo29Plus",
+      "image": "https://www.ais.th/content/dam/ais/consumer/content/lifestyle/tv-and-movie/premuim-content/ch_logo-mono_plus.jpg",
+      "url": "https://kicksball.com/player/mono29plus",
+      "referer": "https://kicksball.com/",
+      "info": "Live",
+      "embed": "true"
+    },
+    {
+      "name": "MoNo29MusicStation",
+      "image": "https://www.mono.co.th/wp-content/uploads/2020/04/MONO29-MUSIC-STATION.png",
+      "url": "https://kicksball.com/player/mono-29-music-station",
+      "referer": "https://kicksball.com/",
+      "info": "Live",
+      "embed": "true"
+    },
+    {
+      "name": "RushStories",
+      "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/RushStories.png",
+      "url": "https://kicksball.com/player/rush-stories",
+      "referer": "https://kicksball.com/",
+      "info": "Live",
+      "embed": "true"
+    },
+    {
+      "name": "AlureChannel",
+      "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/AlureChannel.png",
+      "url": "https://kicksball.com/player/alure-channel",
+      "referer": "https://kicksball.com/",
+      "info": "Live",
+      "embed": "true"
+    },
   ]
 }
