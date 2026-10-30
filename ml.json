@@ -7,7 +7,7 @@
   "stations": [
     {
       "name": "HBO",
-      "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/logohbo.png",
+      "image": "https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20250716134712006706.png",
       "url": "https://kicksball.com/player/hbo",
       "referer": "https://kicksball.com/",
       "info": "Live",
@@ -15,7 +15,7 @@
     },
     {
       "name": "HBOhits",
-      "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/hbohit.png",
+      "image": "https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20250716134739006530.png",
       "url": "https://kicksball.com/player/hbo-hits",
       "referer": "https://kicksball.com/",
       "info": "Live",
@@ -23,7 +23,7 @@
     },
     {
       "name": "HBOsignature",
-      "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/HBOSignature.png",
+      "image": "https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20250716134720006707.png",
       "url": "https://kicksball.com/player/hbo-signature",
       "referer": "https://kicksball.com/",
       "info": "Live",
@@ -31,7 +31,7 @@
     },
     {
       "name": "HBOfamily",
-      "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/family.png",
+      "image": "https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20250716134747006583.png",
       "url": "https://kicksball.com/player/hbo-family",
       "referer": "https://kicksball.com/",
       "info": "Live",
@@ -39,7 +39,7 @@
     },
     {
       "name": "cinemax",
-      "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png",
+      "image": "https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20250716134649006712.png",
       "url": "https://kicksball.com/player/cinemax",
       "referer": "https://kicksball.com/",
       "info": "Live",
@@ -47,7 +47,7 @@
     },
     {
       "name": "AsianHits",
-      "image": "https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2025/Asian-Hits.png",
+      "image": "https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20250716134635006505.png",
       "url": "https://kicksball.com/player/3bbasian",
       "referer": "https://kicksball.com/",
       "info": "Live",
@@ -71,7 +71,7 @@
     },
     {
       "name": "truefilm1",
-      "image": "https://f.ptcdn.info/231/076/000/r6ltgy21if01VRDPaI3cn-o.jpg",
+      "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cad78460-b44c-11ee-80bd-b787d7bab688_webp_original.webp",
       "url": "https://kicksball.com/player/truefilm1",
       "referer": "https://kicksball.com/",
       "info": "Live",
@@ -79,7 +79,7 @@
     },
     {
       "name": "truefilm2",
-      "image": "https://static.wikia.nocookie.net/logos/images/b/b5/True_Film_2.png/revision/latest/scale-to-width-down/180?cb=20240416043001&path-prefix=vi",
+      "image": "https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",
       "url": "https://kicksball.com/player/truefilm2",
       "referer": "https://kicksball.com/",
       "info": "Live",
@@ -87,15 +87,55 @@
     },
     {
       "name": "MoNo29Plus",
-      "image": "https://www.ais.th/content/dam/ais/consumer/content/lifestyle/tv-and-movie/premuim-content/ch_logo-mono_plus.jpg",
+      "image": "https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20250716134635006505.png",
       "url": "https://kicksball.com/player/mono29plus",
       "referer": "https://kicksball.com/",
       "info": "Live",
       "embed": "true"
     },
     {
+      "name": "CartoonNetwork",
+      "image": "https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20250716134513006646.png",
+      "url": "https://kicksball.com/player/cartoon-network",
+      "referer": "https://kicksball.com/",
+      "info": "Live",
+      "embed": "true"
+    },
+    {
+      "name": "BooM",
+      "image": "https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20250716134435006599.png",
+      "url": "https://kicksball.com/player/boomerang",
+      "referer": "https://kicksball.com/",
+      "info": "Live",
+      "embed": "true"
+    },
+    {
+      "name": "NickJR.",
+      "image": "https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20250716134614006738.png",
+      "url": "https://kicksball.com/player/nickjr",
+      "referer": "https://kicksball.com/",
+      "info": "Live",
+      "embed": "true"
+    },
+    {
+      "name": "nickelodeon",
+      "image": "https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20250716134558006743.png",
+      "url": "https://kicksball.com/player/nickelodeon",
+      "referer": "https://kicksball.com/",
+      "info": "Live",
+      "embed": "true"
+    },
+    {
+      "name": "cartoonito",
+      "image": "https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20250716134525006735.png",
+      "url": "https://kicksball.com/player/cartoonito",
+      "referer": "https://kicksball.com/",
+      "info": "Live",
+      "embed": "true"
+    },
+    {
       "name": "MoNo29MusicStation",
-      "image": "https://www.mono.co.th/wp-content/uploads/2020/04/MONO29-MUSIC-STATION.png",
+      "image": "https://bkk-a.play-rfcdn.ais.th/iptvepg/images/poster/20250718132608006772.png",
       "url": "https://kicksball.com/player/mono-29-music-station",
       "referer": "https://kicksball.com/",
       "info": "Live",
